@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tortoise/tortoise-orm/commit/a47e3f6c9eb787ad1cec9291926800e194d40062",
       "git:hexsha": "a47e3f6c9eb787ad1cec9291926800e194d40062",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T20:38:42.183129+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tortoise/tortoise-orm/commit/9ed30f06113d3470bec1008f9d251570805349c4",
