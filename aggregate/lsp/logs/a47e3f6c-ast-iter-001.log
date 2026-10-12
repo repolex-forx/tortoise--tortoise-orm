@@ -1,0 +1,7 @@
+[2026-10-12T20:31:14Z] === AST ITERATION 1 START | repo=tortoise/tortoise-orm sha=a47e3f6c ===
+[2026-10-12T20:31:14Z] [iter=1] PHASE START: ast repo=tortoise/tortoise-orm sha=a47e3f6c
+[2026-10-12T20:31:14Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T20:37:02Z] [iter=1] AST chunks built count=1 triples=3184206
+[2026-10-12T20:37:02Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a47e3f6c9eb787ad1cec9291926800e194d40062/.complete
+[2026-10-12T20:37:02Z] [iter=1] PHASE END: ast elapsed_s=347 elapsed_min=5.8
+[2026-10-12T20:37:02Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
